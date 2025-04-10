@@ -79,19 +79,3 @@ DeviceFileEvents
 - **Author Contact**: www.linkedin.com/in/mojan638
 - **Date**: April 10, 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
----
-
-## Additional Notes:
-- **None**
-
----
-
-## Revision History:
-| **Version** | **Changes**                   | **Date**         | **Modified By**   |
-|-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
